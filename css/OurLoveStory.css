@@ -30,3 +30,10 @@ p {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.466);
 }
+@media(max-width: 480px){
+body{
+height: 220vh;
+
+}
+
+}
